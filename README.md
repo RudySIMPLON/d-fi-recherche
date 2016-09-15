@@ -1,5 +1,5 @@
 
-# Question 22
+
 
  # Qu'elle est  votre adresse ip
 
@@ -13,15 +13,25 @@
 
   * source : www.monip.com
 
-  Question 16
+  
 
   # Comment fontionnent les bang de Duck Duck go
 
   *  Duck Duck go est un meta-moteur de recherche qui se distingue en utilisant des informations provenant d'autres sites.
   Il a pour philosophie de préserver la vie privée et de ne stocker aucune information personnelle conercnant les utilisateurs.
+   Bang permet de rediriger les requetes vers d'autres moteur de recherche ou site en tapant la commande appelé "!bang".
 
     * source : www.wikipedia.org/wiki/Duck/DuckGo
 
+  
+
+ # Combien d’heures de vidéo sont mises en ligne chaque minute sur Youtube
+
+  * Chaque minute 400 heures de videos sont mise en ligne
+
+    * source : www.monip.com
+
+  
   
   
 
