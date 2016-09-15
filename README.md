@@ -32,7 +32,17 @@
     * source : www.monip.com
 
   
-  
+  #Qui est Steve Wozniak ?
+
+  * Steve Wozniak est informaticien, professeur d'informatique et électronicien américain, il est le cofondateur de la société apple computer avec Steve Jobs et Ronald Wayne, et concepteur  des premiers  Apple
+
+   * source : https://fr.wikipedia.org/wiki/Steve_Wozniak
+
+
+
+
+
+
   
 
 
