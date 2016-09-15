@@ -13,5 +13,19 @@
 
   * source : www.monip.com
 
+  Question 16
+
+  # Comment fontionnent les bang de Duck Duck go
+
+  *  Duck Duck go est un meta-moteur de recherche qui se distingue en utilisant des informations provenant d'autres sites.
+  Il a pour philosophie de préserver la vie privée et de ne stocker aucune information personnelle conercnant les utilisateurs.
+
+    * source : www.wikipedia.org/wiki/Duck/DuckGo
+
+  
+  
+
+
+
   
 
